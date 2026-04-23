@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/andre/CLionProjects/lab7ex2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\lab7ex2.dir\\main.c.obj -c C:\\Users\\andre\\CLionProjects\\lab7ex2\\main.c",
+  "file": "C:/Users/andre/CLionProjects/lab7ex2/main.c",
+  "output": "C:/Users/andre/CLionProjects/lab7ex2/cmake-build-debug/CMakeFiles/lab7ex2.dir/main.c.obj"
+}
+]

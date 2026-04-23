@@ -1,0 +1,3 @@
+C:/Users/andre/CLionProjects/lab7ex2/cmake-build-debug/CMakeFiles/lab7ex2.dir
+C:/Users/andre/CLionProjects/lab7ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/CLionProjects/lab7ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
